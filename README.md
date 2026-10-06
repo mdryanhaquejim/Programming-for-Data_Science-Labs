@@ -2,14 +2,7 @@
 
 ## Student Information
 
-**Student ID:** Your Student ID  
-**Name:** Your Full Name
+**Student ID:** 24-58216-2  
+**Name:** Md Ryan Haque Jim
 
 
-## Course
-
-Programming for Data Science
-
-## Lab Works
-
-- Lab-1
